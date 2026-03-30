@@ -8,6 +8,11 @@ Pillow>=10.0.0
 # Numérico
 numpy>=1.26.0
 
+# Visualización
+matplotlib>=3.8.0
+
 # Descarga de datos
 requests>=2.31.0
 
+# Entorno de Notebooks (para ejecución local)
+jupyter>=1.0.0
