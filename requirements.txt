@@ -1,0 +1,13 @@
+# Deep learning
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Imágenes
+Pillow>=10.0.0
+
+# Numérico
+numpy>=1.26.0
+
+# Descarga de datos
+requests>=2.31.0
+
